@@ -1,0 +1,1190 @@
+  @media(max-width : 1380px) {
+      .homeh1 {
+          margin-left: 50rem;
+      }
+
+      .homeh1 h1 {
+          font-size: 3.5rem;
+      }
+
+      #homechild1 {
+          font-size: 1.8rem;
+      }
+
+      .sell {
+        margin: 11rem 30rem 0px 5rem ;
+        }
+        .sell h1{
+            font-size: 4rem;
+            font-weight: bolder;
+        }
+      
+  }
+  @media(max-width:1350px){
+    .sellcard{
+        height: 26rem;
+        margin: 10rem 5rem 2rem 5rem ;
+     }
+     .sellcard-0 {
+        height: 21vh;
+        text-align: center; 
+        padding: 28px;
+        margin: 0rem 2rem 0rem 2rem;
+    }
+    .sellbig-body h1 {
+        font-size: 2rem;
+        margin-bottom: 4px;
+  }}
+  @media(max-width:1260px) {
+    
+      .homeh1 h1 {
+          font-size: 3.5rem;
+      }
+
+      .homeh1 {
+          margin-left: 46rem;
+      }
+
+      #btn1 {
+          font-size: 1.2rem;
+          padding: 7px 14px;
+      }
+
+      #btn2 {
+          font-size: 1.2rem;
+          padding: 7px 14px;
+      }
+
+      .navitems {
+          margin-right: 55px;
+      }
+
+      .navitems li a {
+          font-size: 24px;
+          margin: 0px 16px;
+      }
+
+      #homechild1 {
+          margin-left: 3.5rem;
+          color: white;
+      }
+
+      .card-1 img {
+          width: 22vw;
+          height: 37vh;
+
+      }
+
+      .card-2 img {
+          width: 22vw;
+          height: 37vh;
+
+      }
+
+      .card-3 img {
+          width: 22vw;
+          height: 37vh;
+
+      }
+
+      /* #top-feature h1 {
+          margin-top: 18rem;
+
+      } */
+      .tophead{
+        font-size: 18px;
+      }
+      .testinomial h1 {
+        font-size: 3.2rem;
+    }
+    .card-r1{
+     width: 23.5rem;
+     height: 26.5rem;
+    }
+    .card-r2{
+        width: 23.5rem;
+     height: 26.5rem;
+    }
+    .card-r3{
+        width: 23.5rem;
+     height: 26.5rem;
+    }
+   
+   
+    
+  }
+
+  @media(max-width :1195px) {
+      .homeh1 h1 {
+          font-size: 3.3rem;
+      }
+
+      .homeh1 {
+          margin-left: 42rem;
+      }
+      .sellcard{
+        height: 26rem;
+        margin: 15rem 5rem 2rem 5rem ;
+     }
+     .sellbig-body h1 {
+        font-size: 2rem;
+        margin-bottom: 4px;
+  }
+  
+      .card-1 h2 {
+          font-size: 20px;
+      }
+
+      .card-2 h2 {
+          font-size: 20px;
+      }
+
+      .card-3 h2 {
+          font-size: 20px;
+      }
+
+      #icon {
+          font-size: 2.3rem;
+      }
+
+      .card1 h2 {
+          font-size: 22px;
+      }
+
+      .card2 h2 {
+          font-size: 17px;
+      }
+
+      .card3 h2 {
+          font-size: 22px;
+      }
+      .reviewcard{
+        display: flex;
+       flex-direction: column;
+        text-align: center; 
+       justify-content: center;
+   }
+   .card-r1{
+    width: 25rem;
+    height: 25rem;
+    margin-left: 25rem;
+   }
+   .card-r2{
+       width: 25rem;
+    height: 25rem;
+    margin-left: 25rem;
+    margin-top: 1.5rem;
+   }
+   .card-r3{
+       width: 25rem;
+    height: 25rem;
+    margin-left: 25rem;
+    margin-top: 1.5rem;
+   }
+  }
+  @media(max-width:1150px){
+    .sellbig-img{
+        margin-top: 6rem;
+        width: 40rem;
+     }
+  }
+  @media(max-width:1120px){
+    .sellbig-img{
+       margin-top: 0;
+        width: 50rem;
+     }
+    .sellbig{
+        display: flex;
+        flex-direction: column;
+    }
+    .sellbig-body p {
+        display: none;
+    }
+    .sellbig-body h1{
+        text-align: center;
+        margin-top: 0;
+        font-size: 3.4rem;
+    }
+    .sellbig-body{
+        padding: 3rem 1rem;
+        width: 100%;
+     }
+     .sellbig{
+        background-color:rgb(150, 195, 232) ;
+        height: 45rem;
+        margin: 3rem 5rem 2rem 5rem ;
+        box-shadow: 0 0 20px rgb(54, 54, 54);
+        cursor: pointer;
+    }
+    .sellbtn{
+         margin-left: 20rem;
+        font-size: 22px;
+        
+    }
+    .sellbtn1{
+
+        font-size: 22px;
+        margin-top: 10px;
+    }
+  }
+  @media(max-width : 1105px) {
+      .homeh1 h1 {
+          font-size: 3rem;
+      }
+
+      .homeh1 {
+          margin-left: 40rem;
+      }
+
+      #btn1 {
+          font-size: 1.1rem;
+          padding: 7px 13px;
+          margin-left: 3rem
+      }
+
+      #btn2 {
+          font-size: 1.1rem;
+          padding: 7px 13px;
+      }
+
+      #homechild1 {
+          margin-left: 2rem;
+      }
+
+      .card1 h2 {
+          font-size: 18px;
+      }
+
+      .card2 h2 {
+          font-size: 17px;
+      }
+
+      .card3 h2 {
+          font-size: 18px;
+      }
+     
+      .card-1 h2 {
+        font-size: 18px;
+    }
+
+    .card-2 h2 {
+        font-size: 18px;
+    }
+
+    .card-3 h2 {
+        font-size: 18px;
+    }
+    .logo h1 {
+    
+        margin-top: 41px;
+        font-size: 40px;
+    }
+    .testinomial h1 {
+        font-size: 2.8rem;
+    }
+    .card-r1{
+        margin-left: 22rem;
+       }
+       .card-r2{       
+         margin-left: 22rem;
+       }
+       .card-r3{
+        margin-left: 22rem;
+       }
+  }
+
+  @media(max-width : 1050px) {
+    #sellicon{
+        font-size: 3rem;
+    }
+    .sell-head{
+        font-size: 18px;
+    }
+    .sellcard-1{
+        width: 25rem;
+        height: 25rem;
+        margin-left: 1.5rem;
+    }
+    .sellcard-2{
+        width: 25rem;
+        height: 25rem;
+        margin-left: 1.5rem;
+    }
+    .sellcard-3{
+        width: 25rem;
+        height: 25rem;
+        margin-left: 1.5rem;
+    }
+    .sellbtn{
+        margin-left: 16rem;
+       font-size: 22px;
+       
+   }
+    /* #top-feature h1 {
+        margin-top: 20rem;
+
+    } */
+  .homeh1 h1 {
+          font-size: 2.9rem;
+      }
+
+      .homeh1 {
+          margin-left: 37rem;
+      }
+      #btn1 {
+        font-size: 1.1rem;
+        padding: 7px 12px;
+        margin-left: 2rem
+    }
+
+    #btn2 {
+        font-size: 1.1rem;
+        padding: 7px 12px;
+    }
+    .navitems {
+        margin-right: 35px;
+    }
+
+    .navitems li a {
+        font-size: 21px;
+        margin: 0px 13px;
+    }
+    .card-1 img {
+        width: 25vw;
+        height: 30vh;
+
+    }
+
+    .card-2 img {
+        width: 25vw;
+        height: 30vh;
+
+    }
+
+    .card-3 img {
+        width: 25vw;
+        height: 30vh;
+
+    }
+    .card-r1{
+        margin-left: 19rem;
+       }
+       .card-r2{       
+         margin-left: 19rem;
+       }
+       .card-r3{
+        margin-left: 19rem;
+       }
+    }
+    @media(max-width : 985px){
+    
+       
+        .sell {
+            margin: 11rem 20rem 0px 5rem ;
+            }
+            .sell h1{
+                font-size: 4rem;
+            }
+        .homeh1 h1 {
+            font-size: 2.5rem;
+        }
+  
+        .homeh1 {
+            margin-left: 36rem;
+        }
+        #homechild1 {
+            margin-left: 2.2rem;
+            font-size: 1.5rem;
+        }
+        #btn1 {
+        margin-left: 1.5rem
+    }
+
+    #btn2 {
+        padding: 7px 12px;
+    }
+    .card-1 h2 {
+        font-size: 17px;
+    }
+
+    .card-2 h2 {
+        font-size: 17px;
+    }
+
+    .card-3 h2 {
+        font-size: 17px;
+    }
+    .card1 {
+       
+        width: 28vw;
+        padding: 20px  18px;
+    
+    }
+    
+    .card2 {
+       
+        width: 28vw;
+        padding: 20px  18px;
+    
+    }
+    .card3 {
+       
+        width: 28vw;
+        padding: 20px  18px;
+    
+    }
+    .card-r1{
+        margin-left: 18rem;
+       }
+       .card-r2{       
+         margin-left: 18rem;
+       }
+       .card-r3{
+        margin-left: 18rem;
+       }
+    }
+    @media(max-width:950px){
+        .sellbtn{
+            margin-left: 14rem;
+           font-size: 22px;
+           
+       }
+    }
+    @media(max-width : 920px){
+        .sellcard-0-h1{
+            font-size: 1.5rem;
+        }
+        .sellcard-0{
+         height: 18vh;
+        }
+        .homeh1 h1 {
+            font-size: 2.4rem;
+        }
+  
+        .homeh1 {
+            margin-left: 34.5rem;
+        }
+        #homechild1 {
+            margin-left: 2.2rem;
+            font-size: 1.3rem;
+        }
+        #btn1 {
+            font-size: 1rem;
+            padding: 7px 10px;
+            margin-left: 1.2rem
+        }
+  
+        #btn2 {
+            font-size: 1rem;
+            padding: 7px 10px;
+        }
+        /* #top-feature h1 {
+            margin-top: 25rem;
+  
+        } */
+        .logo h1 {
+    
+            margin-top: 44px;
+            font-size: 30px;
+        }
+        .testinomial h1 {
+            font-size: 2.5rem;
+        }
+        .card-r1{
+            margin-left: 16rem;
+           }
+           .card-r2{       
+             margin-left: 16rem;
+           }
+           .card-r3{
+            margin-left: 16rem;
+           }
+    }
+    @media(max-width : 890px){
+        /* #top-feature h1 {
+            margin-top: 28rem;
+  
+        } */
+        .navitems {
+            margin-right: 20px;
+        }
+    
+        .navitems li a {
+            font-size: 18px;
+            margin: 0px 10px;
+        }
+      .homeh1{
+       display: none;
+      }
+      .home2{
+        display: block;
+    
+      }
+      .navitems li a {
+        font-size: 21px;
+        margin: 0px 13px;
+    }
+    .card-r1{
+        margin-left: 13rem;
+       }
+       .card-r2{       
+         margin-left: 13rem;
+       }
+       .card-r3{
+        margin-left: 13rem;
+       }
+       .sellbtn{
+        margin-left: 12rem;
+       }
+       .sellcardchild1{
+        width: 15rem;
+        margin-left: 1rem;
+    }
+    .sellcardchild2{
+        width: 15rem;
+        margin-left:2rem ;
+    }
+    .sellcardchild3{
+        width: 15rem;
+        margin-left:2rem ;
+    }
+    .sellbig-img{
+        margin-right: 12px;
+    }
+    }
+    @media(max-width:840px){
+        .logo img {
+            margin-left:-12px;
+        }
+        .sellbig-body h1{
+            text-align: center;
+            margin-top: 0;
+            font-size: 3rem;
+        }
+        .sell {
+            margin: 11rem 10rem 0px 5rem ;
+            }
+            .sell h1{
+                font-size: 4rem;
+            }
+            .sell::before{
+                width:100vw ;
+            }
+    }
+    @media(max-width:850px){
+        .sellbig{
+            display: none;
+          }
+          .sellcard-1{
+            width: 28rem;
+            height: 25rem;
+            margin-left: 1.5rem;
+        }
+        .sellcard-2{
+            width: 28rem;
+            height: 25rem;
+            margin-left: 1.5rem;
+        }
+        .sellcard-3{
+            width: 28rem;
+            height: 25rem;
+            margin-left: 1.5rem;
+        }
+    }
+    @media(max-width:800px){
+        .sellcardchild1{
+            margin-top: 6rem;
+        }
+        .sellcardchild2{
+            margin-top: 6rem;
+        }
+        .sellcardchild3{
+            margin-top: 6rem;
+        }
+        
+    }
+    @media(max-width:790px){
+        #top-feature h1 {
+            margin-top: 12rem;
+          }
+          #sellicon {
+            font-size: 2.5rem;
+        }
+    }
+    @media(max-width:780px){
+        .sellcard{
+            display: none;
+        }
+    }
+
+  @media(max-width : 750px) {
+      .navitems {
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          top: 0;
+          left: 0;
+          right: 0;
+          background-color: white;
+          position: fixed;
+          height: 40vh;
+          width: 100%;
+          transition: top 2s ease 0s;
+        
+      }
+
+      .openmenu {
+          display: block;
+          top: 18px
+      }
+
+      #closemenu {
+          display: block;
+      }
+
+      .navitems li a {
+          font-size: 2.1rem;
+          text-align: center;
+          margin-top: 5px;
+      }
+      .logo h1 {
+        margin-top: 37px;
+        font-size: 43px;
+    }
+    .home2 #homechild5{
+        color:  rgb(255, 179, 0);
+        font-size: 1.6rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .home2 #homechild6{
+        color: white;
+        font-size: 3.2rem;
+        
+    }
+    .home2 #homechild7{
+        color: white;
+        font-size: 3.2rem;
+    }
+    .home2 #homechild8{
+        color: white;
+        font-size: 3.2rem;
+    }
+    #btn1{
+    font-size: 1.1rem;
+
+    }
+    #btn2{
+        font-size: 1.1rem;
+    }
+    /* #top-feature h1 {
+        margin-top: 15rem;
+    } */
+   
+    .card-1 img {
+        width: 28vw;
+        height: 25vh;
+
+    }
+
+    .card-2 img {
+        width: 28vw;
+        height: 25vh;
+
+    }
+
+    .card-3 img {
+        width: 28vw;
+        height: 25vh;
+
+    }
+    .tophead{
+        font-size: 15px;
+    }
+    .review{
+        font-size: 14px;
+    }
+    .cart{
+        font-size: 15px;
+    }
+    .card1 {
+       
+        width: 30vw;
+        padding: 18px  15px;
+    
+    }
+    
+    .card2 {
+       
+        width: 30vw;
+        padding: 18px  15px;
+    
+    }
+    .card3 {
+       
+        width: 30vw;
+        padding: 18px  15px;
+    
+    }
+    .testinomial h1 {
+        font-size: 1.9rem;
+    }
+    .card-r1{
+        margin-left: 9rem;
+       }
+       .card-r2{       
+         margin-left: 9rem;
+       }
+       .card-r3{
+        margin-left: 9rem;
+       }
+    }
+    @media(max-width:710px){
+        .sellcards1{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .sellcardchild1{
+            margin-bottom: 30px;
+        }
+        .sellcardchild2{
+            margin-bottom: 30px;
+        }
+        .sellcardhead{
+            display: block;
+        }
+    }
+  
+  @media(max-width:670px){
+    .logo {
+        margin-left: 2px;
+    }
+    .logo img {
+        height: 95px;
+    }
+    .logo h1 {
+        margin-top: 28px;
+        font-size: 42px;
+    }
+    .tophead{
+        font-size: 18px;
+    }
+ .portion1{
+    flex-direction: column;
+ }
+
+ .card-1 img {
+    width: 53vw;
+    height: 30vh;
+
+}
+.card-1{
+   margin-left: 18px;
+ }
+.card-2 img {
+    width: 53vw;
+    height: 30vh;
+    
+
+}
+.card-2{
+    margin-top: 2rem;
+ }
+
+.card-3 img {
+    width: 53vw;
+    height: 30vh;
+
+}
+.card-3{
+    margin-top: 2rem;
+ }
+ .cart{
+    font-size: 16px;
+ }
+ .cards{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .card1 {
+       
+    width: 30vw;
+    padding: 18px  15px;
+
+}
+.card1 {
+   
+    width: 68vw;
+    padding: 25px  28px;
+
+}
+
+.card2 {
+   margin-top: 3rem;
+    width: 68vw;
+    padding: 25px  28px;
+
+}
+.card3 {
+    margin-top: 3rem;
+    width: 68vw;
+    padding: 25px  28px;
+
+}
+#icon{
+    font-size: 4rem;
+}
+.servicehead{
+    font-size: 3rem;
+}
+.btngroup{
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn2{
+    margin: 0px 4px;
+    border: 2px solid white; 
+}
+.btn2 a {
+    text-decoration: none;
+    border: 2px solid rgb(53, 192, 202); 
+    padding: 5px 10px;
+    color: rgb(53, 192, 202);
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.testinomial h1 {
+    font-size: 1.9rem;
+}
+.card-r1{
+    margin-left: 6rem;
+   }
+   .card-r2{       
+     margin-left: 6rem;
+   }
+   .card-r3{
+    margin-left: 6rem;
+   }
+   .sell {
+    margin: 11rem 1rem 0px 5rem ;
+    }
+    .sell h1{
+        font-size: 4rem;
+    }
+    .sell::before{
+        width:100vw ;
+    }
+  }
+
+  @media(max-width : 500px){
+    .logo {
+        margin-left: 2px;
+    }
+    .logo img {
+        height: 95px;
+    }
+    .logo h1 {
+        margin-top: 28px;
+        font-size: 38px;
+    }
+    #service h1 {   
+             font-size: 3.3rem;
+    }
+    #top-feature h1 {
+       
+        font-size: 3.3rem;
+    }
+    .testinomial h1 {
+        font-size: 1.4rem;
+    }
+    .card-r1{
+        margin-left: 3rem;
+       }
+       .card-r2{       
+         margin-left: 3rem;
+       }
+       .card-r3{
+        margin-left: 3rem;
+       }
+       
+  }
+  @media(max-width:470px){
+    .card-1 img {
+        width: 65vw;
+        height: 32vh;
+    
+    }
+    .card-2 img {
+        width: 65vw;
+        height: 32vh;
+    
+    }
+    .card-3 img {
+        width: 65vw;
+        height: 32vh;
+    
+    }
+    .card-r1{
+        text-align: center;
+     width: 25rem;
+     height: 24rem;
+    box-shadow: 0 0 15px grey;
+    padding: 20px 0px;
+    }
+    
+    .footercontainer{
+        width: 100%;
+        padding:50px 20px 10px ;
+    }
+    .socialicons a{
+         margin: 8px;
+        
+     } 
+     .footernav  li a{
+        margin: 8px;
+        font-size: 1.2rem;
+    }
+    #top h1{
+        font-size: 2.4rem;
+    }
+     #shoes h1{
+        font-size: 3rem;
+     }
+     #stationary h1{
+        font-size: 3rem;
+     }
+     .testinomial h1 {
+        font-size: 1.4rem;
+    }
+    .card-r1{
+        margin-left: 1.5rem;
+       }
+       .card-r2{       
+         margin-left: 1.5rem;
+       }
+       .card-r3{
+        margin-left: 1.5rem;
+       }
+       .socialicons a i{
+        font-size: 1.5rem;
+    }
+    .card-r1 {
+        width: 23rem;
+        height: 26rem;
+    }
+    .card-r2 {
+        width: 23rem;
+        height: 26rem;
+    }
+    .card-r3 {
+        width: 23rem;
+        height: 26rem;
+    }
+  }
+  @media(max-width :432px){
+    .openmenu{
+        top: 19px;
+    }
+    #top-feature h1 {
+        margin-top: 26rem;
+      }
+      .sell {
+        margin: 11rem 2.8rem 0px 1rem ;
+        }
+        .sell h1{
+            font-size: 2.5rem;
+        }
+  }
+  @media(max-width:420px){
+    .sellcardhead{
+        margin-top: 18rem;
+    }
+    .btn2{
+        margin: 0px 2px;
+        border: 2px solid white; 
+    }
+    .btn2 a {
+        text-decoration: none;
+        border: 2px solid rgb(53, 192, 202); 
+        padding: 8px 6px;
+        color: rgb(53, 192, 202);
+        border-radius: 8px;
+        background-color: white;
+        cursor: pointer;
+        font-size: 1rem;
+    }
+    .openmenu{
+        top: 32px;
+    }
+    #top-feature h1 {
+        margin-top: 24rem;
+      }
+      .sell {
+        margin: 11rem 2.5rem 0px 1rem ;
+        }
+        .sell h1{
+            font-size: 2.5rem;
+        }
+        
+  }
+  @media(max-width:391px){
+    .sellcardhead{
+        margin-top: 8rem;
+    }
+    .footercontainer {
+        width: 100%;
+        padding: 40px 15px 8px ;
+    }
+    .socialicons a{
+        margin: 5px;
+       
+    } 
+    .footernav  li a{
+       margin: 4px;
+       font-size: 1rem;
+   }
+   .testinomial h1 {
+    font-size: 1.9rem;
+}
+
+
+.card-r1 {
+    margin-left: 0.7rem;
+    width: 21rem;
+    height: 28rem;
+}
+.card-r2 {
+    margin-left: 0.7rem;
+    width: 21rem;
+    height: 28rem;
+}
+.card-r3 {
+    margin-left: 0.9rem;
+    width: 21rem;
+    height: 28rem;
+}
+#top-feature h1 {
+    margin-top: 22rem;
+  }
+  .sell {
+    margin: 11rem 1rem 0px 2rem ;
+    }
+    .sell h1{
+        font-size: 2.8rem;
+    }
+    .sell::before{
+        width:100vw ;
+    }
+}
+  @media(max-width :376px ){
+    
+    .navitems {
+        width: 100%;
+    }
+    .logo {
+        margin-left: -9px;
+    }
+    .logo img {
+        height: 95px;
+    }
+    .logo h1 {
+        margin-top: 32px;
+        font-size: 35px;
+    }
+    .store-icon i {
+        margin-right: 60px;
+        font-size: 26px;
+    }
+    .openmenu {
+        font-size: 26px;
+        top: 21px;
+        right: 20px;
+    }
+    .navitems li a {
+        font-size: 1.8rem;
+        margin-top: 5px;
+    }
+    .home2 #homechild5{
+        color:  rgb(255, 179, 0);
+        font-size: 1.4rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .home2 #homechild6{
+        color: white;
+        font-size: 2.9rem;
+        
+    }
+    .home2 #homechild7{
+        color: white;
+        font-size: 2.9rem;
+    }
+    .home2 #homechild8{
+        color: white;
+        font-size: 2.9rem;
+    }
+    
+    .footercontainer {
+        width: 100%;
+        padding: 50px 20px 10px ;
+    }
+    .socialicons a{
+        margin: 5px;
+       
+    } 
+    .footernav  li a{
+       margin: 8px;
+       font-size: 1rem;
+   }
+   #top-feature h1 {
+    margin-top: 17rem;
+
+} 
+.card-1 img {
+    width: 65vw;
+    height: 24vh;
+
+}
+.card-2 img {
+    width: 65vw;
+    height: 24vh;
+
+}
+.card-3 img {
+    width: 65vw;
+    height: 24vh;
+
+  }
+  #service1 h1 {
+    font-size: 3rem;
+}
+.card-r1 {
+    margin-left: 18px;
+}
+.card-r2 {
+    margin-left: 18px;
+}
+.card-r3 {
+    margin-left: 18px;
+}
+.sell {
+    margin: 11rem 1rem 0px 2rem ;
+    }
+    .sell h1{
+        font-size: 2.5rem;
+    }
+    .sell::before{
+        width:100vw ;
+    }
+}
+@media(max-width: 360px){
+    .openmenu{
+        top: 25px;
+    }
+    
+}
